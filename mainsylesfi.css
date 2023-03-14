@@ -1,0 +1,69 @@
+1.	position: absolute;
+2.	     float: right;
+3.	     bottom: 0;
+4.	     right: 0;
+5.	     display: block;
+6.	     visibility: visible;
+7.	     margin: 0 5px 5px 0;
+8.	     width: 32px;
+9.	     height: 30px;
+10.	     border: 0;
+11.	     padding: 0;
+12.	     font-size: 0
+
+.woocommerce-page ul.products li.product .button{
+	margin-top: .2em;
+	margin-bottom: 1.5em;
+	white-space: normal;
+	line-height: 1.3;
+	position: absolute;
+	float: right;
+	bottom: 0;
+	right: 0;
+	display: block;
+	visibility: visible;
+	margin: px 0px 0;
+	width: 70px;
+	height: 30px;
+	border: 0;
+	padding: 0;
+	font-size: x-small;
+}
+
+.woocommerce-page ul.products li.product .button{
+	margin-top: .2em;
+	margin-bottom: 1.3em;
+	white-space: normal;
+	line-height: 1.3;
+	position: absolute;
+	float: right;
+	bottom: 0;
+	right: 0;
+	display: block;
+	visibility: visible;
+	margin: 1;
+	width: 30px;
+	height: 30px;
+	border: 0;
+	padding: 4px 8px;
+	font-size: large;
+}
+
+.woocommerce-page ul.products li.product .button{
+	margin-top: .2em;
+	margin-bottom: 1.3em;
+	white-space: normal;
+	line-height: 1.3;
+	position: absolute;
+	float: right;
+	bottom: 0;
+	right: 0;
+	display: block;
+	visibility: hidden;
+	margin: 1;
+	width: 30px;
+	height: 30px;
+	border: 0;
+	padding: 4px 8px;
+	font-size: large;
+}
