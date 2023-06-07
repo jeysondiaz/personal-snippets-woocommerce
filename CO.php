@@ -1,12 +1,7 @@
 <?php
 /**
  * Colombian states
- //colocar en la ruta wp-content/plugins/woocommerce/i18n/states.php
- *
- * @author      WooThemes
- * @category    i18n
- * @package     WooCommerce/i18n
- * @version     2.0.0
+colocar en la ruta wp-content/plugins/woocommerce/i18n/states.php
  */
 	'CO' => array( // Colombian States.
 		'CA' => __( 'Cali', 'woocommerce' ),
